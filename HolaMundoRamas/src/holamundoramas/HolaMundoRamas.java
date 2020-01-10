@@ -12,7 +12,7 @@ public class HolaMundoRamas {
     public static void main(String[] args) {
 
         //System.out.println("Hola Mundo");
-        System.out.println("Me gustan los catalanes, hacen cosas");
+        System.out.println("Facha muerto abono pa mi huerto");
         
     }
     
