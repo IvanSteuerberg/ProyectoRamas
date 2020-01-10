@@ -11,8 +11,8 @@ public class HolaMundoRamas {
      */
     public static void main(String[] args) {
 
-        System.out.println("Hola Mundo");
-        System.out.println("Fin de la cita");
+        //System.out.println("Hola Mundo");
+        System.out.println("Me gustan los catalanes, hacen cosas");
         
     }
     
